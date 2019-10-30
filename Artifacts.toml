@@ -1,0 +1,89 @@
+[[Xorg_libXft]]
+arch = "armv7l"
+git-tree-sha1 = "ad6cf9c79a696baf151b9e3e964f5d3fc30c8747"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXft.download]]
+    sha256 = "2f669649c400485546ab503709f09e1368e58c3e3470765827d06a3ec34aa4bc"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXft_jll.jl/releases/download/Xorg_libXft-v2.3.3+0/Xorg_libXft.v2.3.3.arm-linux-gnueabihf.tar.gz"
+[[Xorg_libXft]]
+arch = "aarch64"
+git-tree-sha1 = "f77e5fb772f7d34ccd14e529acb93e39b8c8e05a"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXft.download]]
+    sha256 = "42824c0224109a219e1df57dafaa5f838302cbee3f031131dd4f9ed512d2b864"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXft_jll.jl/releases/download/Xorg_libXft-v2.3.3+0/Xorg_libXft.v2.3.3.aarch64-linux-musl.tar.gz"
+[[Xorg_libXft]]
+arch = "i686"
+git-tree-sha1 = "3c5ab0e93dd0bb3d1f38740d2d4309e5dfb19c65"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXft.download]]
+    sha256 = "9052787b0f35faea7f7227b63ccd1d3f0227df8ff57752c420565cfff914019f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXft_jll.jl/releases/download/Xorg_libXft-v2.3.3+0/Xorg_libXft.v2.3.3.i686-linux-musl.tar.gz"
+[[Xorg_libXft]]
+arch = "i686"
+git-tree-sha1 = "413e6541d652c980096dedb632e5709568b844c1"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXft.download]]
+    sha256 = "b52f14a075aba0939490ab9006ce5ebddbe03a165a94021e4496aa3052a7c9b1"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXft_jll.jl/releases/download/Xorg_libXft-v2.3.3+0/Xorg_libXft.v2.3.3.i686-linux-gnu.tar.gz"
+[[Xorg_libXft]]
+arch = "x86_64"
+git-tree-sha1 = "9dd58d1b85bad886b54451b5f77b51cf25a383ce"
+os = "freebsd"
+
+    [[Xorg_libXft.download]]
+    sha256 = "d169f41bfc4ea4f66014b58394311cc70e509bfe0ebd23a6a947a3f8005148a7"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXft_jll.jl/releases/download/Xorg_libXft-v2.3.3+0/Xorg_libXft.v2.3.3.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_libXft]]
+arch = "powerpc64le"
+git-tree-sha1 = "163118c140f95978ba0387379dfcd675554f20df"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXft.download]]
+    sha256 = "40e0a76abe6b136deb464e918262fe96fccc3d577ba4a754590b5269cf86136f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXft_jll.jl/releases/download/Xorg_libXft-v2.3.3+0/Xorg_libXft.v2.3.3.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_libXft]]
+arch = "armv7l"
+git-tree-sha1 = "7a17d1d55bd0d8cf5b094daae105439a00c8cdb2"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXft.download]]
+    sha256 = "06e9807f0fcfcc2c71ddbfaaf2eea6efa0f5348dc34b4f29e525b258b071dced"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXft_jll.jl/releases/download/Xorg_libXft-v2.3.3+0/Xorg_libXft.v2.3.3.arm-linux-musleabihf.tar.gz"
+[[Xorg_libXft]]
+arch = "aarch64"
+git-tree-sha1 = "dcf184d2296af37fdd0e22e6c12a4c3af5a767f0"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXft.download]]
+    sha256 = "8171aebbb04251fb9522b6dff88c923c2c63f3026461b81c0fb1d493b58d5e3f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXft_jll.jl/releases/download/Xorg_libXft-v2.3.3+0/Xorg_libXft.v2.3.3.aarch64-linux-gnu.tar.gz"
+[[Xorg_libXft]]
+arch = "x86_64"
+git-tree-sha1 = "371cf823e47af8d5958cafdcd2d8734fd3e5f949"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXft.download]]
+    sha256 = "731db19f4848314ad38ee3b51831315e221bd8e88c41209722ca449cdb254a90"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXft_jll.jl/releases/download/Xorg_libXft-v2.3.3+0/Xorg_libXft.v2.3.3.x86_64-linux-gnu.tar.gz"
+[[Xorg_libXft]]
+arch = "x86_64"
+git-tree-sha1 = "0faa35ed1685a2e4766c2479c6817adb7103c3d2"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXft.download]]
+    sha256 = "d0f7033aadceff4bf82a183989af78537b2325891be268ef10fdf6db6d97853c"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXft_jll.jl/releases/download/Xorg_libXft-v2.3.3+0/Xorg_libXft.v2.3.3.x86_64-linux-musl.tar.gz"

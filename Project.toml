@@ -1,0 +1,12 @@
+name = "Xorg_libXft_jll"
+uuid = "2c808117-e144-5220-80d1-69d4eaa9352c"
+version = "2.3.3+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Fontconfig_jll = "a3f928ae-7b40-5064-980b-68af3947d34b"
+Xorg_libXrender_jll = "ea2f1a96-1ddc-540d-b46f-429655e07cfa"
+
+[compat]
+julia = "1.3"
